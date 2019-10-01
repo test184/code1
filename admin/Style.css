@@ -1,0 +1,39 @@
+@charset "utf-8";
+pp {  font-size: 12px; color:#000000}
+td {  font-size: 12px; line-height: 20px; color:#000000}
+.button1 {  border: #999999; border-style: double; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.button2 { background-color: #999999; height: 18px; clip: rect( ); color: #FFFFFF; border: 1px #e1c486 outset}
+.button3 { background-color: #C50000; height: 18px; clip: rect( ); color: #FFFFFF; border: 1px #e1c486 outset }
+a {  color: #003399; text-decoration: none}
+a:hover {  color: #FF0000; text-decoration: none}
+a.menu {  color: #FFFFFF; text-decoration: none}
+a.menu:hover {  color: #FFFF00; text-decoration: none}
+a.tt1 { color: #000000; text-decoration: none }
+a.tt1:hover { color: #FF0000; text-decoration: none}
+a.tt2 { color: #FF0000; text-decoration: none }
+a.tt2:hover { color: #0000FF; text-decoration: none}
+a.tt3 {  color: #FFFFFF}
+a.tt3:hover {  color: #FF0000; text-decoration: none}
+a.tt4 { color: #AA0000; text-decoration: none}
+a.tt4:hover { color: #000000; text-decoration: none }
+a.tt5 { color: #AA0000; text-decoration: none }
+a.tt5:hover { color: #FF0000; text-decoration: none }
+a.tt6 { color: #666666; text-decoration: none }
+a.tt6:hover { color: #993300; text-decoration: none }
+a.tt7 { color: #FFFFFF; text-decoration: none }
+a.tt7:hover { color: #FFFF00; text-decoration: none }
+a.start { color: #00FF00; text-decoration: none }
+a.start:hover { color: #FFFF00; text-decoration: none }
+.font {  line-height: 16px; }
+.font1 { line-height: 22px}
+.sec_menu  { border-left:1px solid white; border-right:1px solid white; border-bottom:1px solid white; overflow:hidden; background:#D6DFF7; }
+.menu_title  { }
+.menu_title span  { position:relative; top:2px; left:8px; color:#215DC6; font-weight:bold; }
+.menu_title2  { }
+.menu_title2 span  { position:relative; top:2px; left:8px; color:#428EFF; font-weight:bold; }
+body {
+font-size: 12px;
+	
+	
+	SCROLLBAR-FACE-COLOR: #7bb6e7; SCROLLBAR-HIGHLIGHT-COLOR: #7bb1e7; SCROLLBAR-SHADOW-COLOR: #f4f4f4; SCROLLBAR-3DLIGHT-COLOR: #f4f4f4; SCROLLBAR-ARROW-COLOR: #f4f4f4; SCROLLBAR-TRACK-COLOR: #add7ef; SCROLLBAR-DARKSHADOW-COLOR: #799ae1
+}

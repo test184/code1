@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{ padding:0; margin:0;}
+html { overflow-x:hidden; height:100%;} 
+ul{ list-style-type:none;}
+body{font:14px/1.5 '微软雅黑';word-wrap:break-word;word-break:break-all;-webkit-text-size-adjust:none;
+overflow-x: hidden; 
+scrollbar-track-color:#999
+}
+a{ color:#232323; text-decoration:none;}
+a:hover{ color:#de4e00;text-decoration:none;}
+img{ border:none;}
+.clear{ clear:both;}
+
+ /*=================left=============*/
+.pub_left{ width:216px; height:auto; overflow:hidden;/* border-right:6px solid #dbe0e4;*/}
+.pub_lbot{ width:216px; height:auto; overflow:hidden; background:#f1f1f1; padding-bottom:30px;}
+.pub_lbul{ width:201px; margin-left:10px; height:auto;}
+
+
+/*=================left=============*/
+.menutitle{ cursor:pointer;color:#000000;width:195px; height:49px;text-align:left; line-height:46px; font-family:"微软雅黑"; font-size:14px/1.5; font-weight:bold;font-weight:bold; margin-left:10px; padding-left:70px;}
+.submenu{ width:200px; background:#FFF; margin-left:10px;}
+.submenu p{ width:200px; height:35px; text-indent:70px;line-height:35px; border-bottom:1px dotted #CCC; background:url(erji.gif) no-repeat 38px 8px; }
+.submenu p a{ width:200px; height:35px; display:block; font-family:"微软雅黑";}
+.submenu p a:hover{ color:#0b497b; }
+
+
+
+
